@@ -2,6 +2,8 @@
 
 Events Calendar for OS Commerce: This was created for a 2009 version and may no longer work.
 
+This Project has moved to : https://bitbucket.org/matthewlinton/osc_eventscalendar
+
 ## About
 
 Events Calendar allows you to add items to your catalog that will expire at a 
